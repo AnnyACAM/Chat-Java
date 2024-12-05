@@ -1,6 +1,6 @@
 <h3>Chat Simples em Java</h3>
 Este projeto é um chat simples com interface gráfica desenvolvido utilizando a biblioteca Swing (javax.swing.*). Foi criado como parte das atividades da disciplina de Algoritmos e Estruturas de Dados (AEDS) durante o segundo ano do curso técnico em Desenvolvimento de Sistemas no Coltec.
-
+<\n>
 
 🛠️ Funcionalidades
 - Interface gráfica amigável para interação.
